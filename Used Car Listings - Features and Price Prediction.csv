@@ -63,7 +63,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 10062,Ford,Edge ST,2020,17367,0,2.7L V6 24V GDI DOHC Twin Turbo,2.7,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,1,1,0,1,Ebony,Iconic Silver Metallic,38000
 10063,Volvo,XC60 T6 Momentum,2019,41152,0,"Drive-E 2L I-4 gasoline direct injection, DOHC, variable valve c",,Automatic,1,Gasoline,Four-wheel Drive,0,0,0,0,1,0,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,Gray,Bright Silver Metallic,34980
 10064,Volkswagen,Golf GTI 2.0T Autobahn,2022,14036,0,2.0L I4 16V GDI DOHC Turbo,2,6-Speed Manual,0,Gasoline,Front-wheel Drive,0,1,1,1,1,1,1,0,0,1,0,1,0,1,1,1,0,0,1,0,1,Titan Black,Deep Black Pearl Effect,38588
-10065,FIAT,500 Sport,2012,79463,0,1.4L I4 16V MPFI SOHC,1.4,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Black,Rosso,ot Priced
 10066,Audi,Q5 2.0T Premium Plus,2017,89654,1,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,2,8-Speed Automatic,1,E85 Flex Fuel,Four-wheel Drive,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1,1,0,0,1,0,1,Chestnut Brown,Glacier White Metallic,19989
 10067,FIAT,500C Lounge,2015,82978,0,1.4L I4 16V MPFI SOHC,1.4,6-Speed Automatic,1,Gasoline,Front-wheel Drive,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,,,9999
 10068,Honda,Civic EX,2022,13712,0,1.5L I4 16V GDI DOHC Turbo,1.5,Automatic CVT,1,Gasoline,Front-wheel Drive,0,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,0,1,1,1,1,Black,Platinum White Pearl,25900
@@ -513,7 +512,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 10512,Lexus,ES 350 Base,2018,34133,0,3.5L V6 24V MPFI DOHC,3.5,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,1,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,1,0,1,Parchment,Red,29786
 10513,FIAT,500 Pop,2015,105210,0,"MultiAir 1.4L I-4 variable valve control, engine with 101HP",1.4,Manual,0,Gasoline,Front-wheel Drive,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,Gray,Billet Argento (Silver),6500
 10514,Jaguar,XJ XJ R-Sport,2017,32566,0,3.0L V6 24V GDI DOHC Supercharged,3,8-Speed Automatic,1,Gasoline,Rear-wheel Drive,0,1,1,0,1,1,1,0,1,0,1,1,1,1,1,1,0,0,1,0,1,Oyster / Ivory,British Racing Green,32991
-10515,MINI,Countryman Cooper S,2017,45234,1,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,2,,0,Gasoline,Four-wheel Drive,1,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,0,0,1,0,1,Black Pearl,Light White,ot Priced
 10516,Volkswagen,Jetta GLI 2.0T S,2020,24199,0,2.0L I4 16V GDI DOHC Turbo,2,6-Speed Manual,0,Gasoline,Front-wheel Drive,0,0,1,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,1,1,1,Titan Black,Pure White,26995
 10517,Audi,A6 55 Prestige,2019,47142,1,3.0L V6 24V GDI DOHC Turbo,3,7-Speed Automatic with Auto-Shift,1,Gasoline,Four-wheel Drive,0,0,1,1,1,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,1,Black,Mythos Black Metallic,41544
 10518,Kia,Telluride SX,2022,12901,0,3.8L V6 24V GDI DOHC,3.8,8-Speed Automatic,1,Gasoline,Front-wheel Drive,0,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,0,1,Black,Glacial White Pearl,47598
@@ -968,7 +966,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 10967,Kia,Carnival SX Prestige,2022,19678,0,3.5L V6 24V PDI DOHC,3.5,8-Speed Automatic,1,Gasoline,Front-wheel Drive,0,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,0,1,Gray,Flare Red,48293
 10968,Cadillac,CT5 Premium Luxury RWD,2020,38875,1,3.0L V6 24V GDI DOHC Twin Turbo,3,10-Speed Automatic,1,Gasoline,Rear-wheel Drive,1,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,0,1,1,0,Jet Black,Black Raven,38000
 10969,Chevrolet,Equinox 2LT,2013,148258,0,2.4L I4 16V GDI DOHC,2.4,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,1,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,1,0,1,,Gray,9888
-10970,FIAT,500 Pop,2012,53832,0,1.4L I4 16V MPFI SOHC,1.4,5-Speed Manual,0,Gasoline,Front-wheel Drive,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,Avorio,Copper,ot Priced
 10971,Volvo,S60 T5 Dynamic,2018,70318,0,2.0L I4 16V GDI DOHC Turbo,2,8-Speed Automatic,1,Gasoline,Four-wheel Drive,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1,0,0,1,1,0,Off Black,Onyx Black Metallic,20443
 10972,Maserati,Levante S,2017,81810,1,3.0L V6 24V GDI DOHC Twin Turbo,3,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,0,1,1,0,1,1,1,0,1,1,0,1,1,1,0,0,1,0,1,Red,Nero Noctis,36095
 10973,Chevrolet,Suburban 1500 LT,2014,123101,0,5.3L V8 16V MPFI OHV Flexible Fuel,5.3,6-Speed Automatic,1,E85 Flex Fuel,Rear-wheel Drive,0,0,1,0,1,0,0,0,1,0,1,0,0,1,1,0,1,0,1,1,0,Ebony,Crystal Red Tintcoat,13998
@@ -2637,7 +2634,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 12636,Jeep,Wrangler Sport,2019,21036,1,3.6L V6 24V MPFI DOHC,3.6,6-Speed Manual,0,Gasoline,Four-wheel Drive,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,Black,Bright White Clearcoat,31600
 12637,Ford,F-150 Raptor,2019,12444,0,3.5L V6 24V PDI DOHC Twin Turbo,3.5,10-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,1,0,1,0,1,1,0,1,0,0,0,1,1,1,0,Black,Blue,63899
 12638,Alfa,Romeo Stelvio Ti Sport,2019,32195,1,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,2,Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,0,1,1,0,0,0,0,1,1,1,0,1,1,0,1,Black,Montecarlo Blue Metallic,31958
-12639,Suzuki,SX4,2009,128841,0,2.0L I4 16V MPFI DOHC,2,,0,Gasoline,Four-wheel Drive,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,Silver,ot Priced
 12640,Jaguar,F-TYPE R,2017,18451,0,5.0L V8 32V GDI DOHC Supercharged,5,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,1,0,1,0,1,1,0,1,1,1,0,1,1,1,0,0,1,0,1,Camel Duo / Jet,Italian Racing Red,60659
 12641,Toyota,Avalon Limited,2018,70110,0,3.5L V6 24V MPFI DOHC,3.5,6-Speed Automatic,1,Gasoline,Front-wheel Drive,1,1,0,0,1,1,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,Black,Magnetic Gray Metallic,22995
 12642,Maserati,Ghibli S Q4,2019,23110,1,3.0L V6,3,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,1,0,1,0,1,0,1,0,1,1,0,1,1,1,0,1,1,0,1,,White,44890
@@ -2685,7 +2681,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 12684,FIAT,500X Trekking,2020,26937,0,1.3L I4 16V GDI SOHC Turbo,1.3,9-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,1,1,0,Black,Bianco Gelato White,25690
 12685,Volkswagen,Routan SE,2010,79724,0,3.8L V6 12V MPFI OHV,3.8,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,Aero Gray,Nocturne Black Metallic,9993
 12686,Kia,Seltos SX,2021,42132,0,1.6L I4 16V GDI DOHC Turbo,1.6,7-Speed Automatic with Auto-Shift,1,Gasoline,Four-wheel Drive,0,1,1,1,1,1,1,0,1,1,1,0,0,1,1,0,0,1,1,1,1,Black,Snow White Pearl,27549
-12687,Maserati,MC20 Base,2022,547,1,3.0L V6 24V PDI DOHC Twin Turbo,3,8-Speed Automatic with Auto-Shift,1,Gasoline,Rear-wheel Drive,0,1,1,1,1,0,1,0,1,1,0,0,0,1,1,0,0,1,1,1,1,Black,Bianco Audace,ot Priced
 12688,Mercedes-Benz,GLC 300 Base 4MATIC,2019,39441,1,2.0L I4 16V GDI DOHC Turbo,2,9-Speed Automatic,1,Gasoline,Four-wheel Drive,1,1,1,1,1,0,0,1,1,0,1,0,0,1,1,1,0,0,1,0,1,Gray,Black,29495
 12689,MINI,Countryman Cooper S ALL4,2020,23993,1,"2L I-4 gasoline direct injection, DOHC, variable valve control,",2,8-Speed Automatic Sport,1,Gasoline,Four-wheel Drive,0,1,1,0,1,0,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,Carbon Black,Gray Metallic,27595
 12690,Nissan,Rogue SV,2015,76222,0,2.5L I4 16V MPFI DOHC,2.5,Automatic CVT,1,Gasoline,Front-wheel Drive,1,0,1,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,Charcoal,Moonlight White,16375
@@ -2762,7 +2757,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 12761,Ford,F-150 XLT,2019,49551,0,2.7L V6 24V PDI DOHC Twin Turbo,2.7,10-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,0,1,1,0,1,0,1,0,1,0,1,1,0,0,0,1,1,1,1,Black,Ingot Silver Metallic,35000
 12762,Mitsubishi,Outlander GT,2017,52890,1,3.0L V6 24V MPFI SOHC,3,6-Speed Automatic,1,Gasoline,Four-wheel Drive,1,1,1,0,1,0,0,1,1,0,0,1,0,1,1,0,1,0,1,0,1,Black,Cool Silver Metallic,20845
 12763,FIAT,500 Abarth,2013,21600,0,160.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,1.4,5-Speed M/T,0,Gasoline,Front-wheel Drive,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,Red,Red,14900
-12764,FIAT,500L Easy,2014,68820,0,1.4L I4 16V MPFI SOHC Turbo,1.4,,0,Gasoline,Front-wheel Drive,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,Black,Bianco White,ot Priced
 12765,MINI,Countryman Cooper S ALL4,2022,26165,1,2.0L I4 16V GDI DOHC Turbo,2,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,1,1,1,1,1,0,1,1,0,1,1,1,1,0,0,1,1,1,0,Malt Brown,Deep,32988
 12766,Cadillac,CTS-V Base,2011,70912,1,6.2L V8 16V MPFI OHV Supercharged,6.2,6-Speed Automatic,1,Gasoline,Rear-wheel Drive,0,0,1,0,1,0,1,0,1,1,0,1,0,1,1,1,0,0,1,0,1,Ebony / Ebony,Black Raven,32997
 12767,Hyundai,Santa Fe Sport 2.4L,2017,90975,0,2.4L I4 16V GDI DOHC,2.4,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,1,0,1,0,0,0,1,1,0,0,0,1,1,1,0,0,1,1,1,Gray,Mineral Gray,14577
@@ -3197,7 +3191,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 13196,BMW,X7 xDrive50i,2019,58995,1,4.4L V8 32V GDI DOHC Twin Turbo,4.4,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,0,0,Ivory White,Mineral White Metallic,59795
 13197,Alfa,Romeo Stelvio Ti,2019,47328,1,2.0L I4 16V GDI SOHC Turbo,2,8-Speed Automatic,1,Gasoline,Four-wheel Drive,1,1,1,1,1,0,0,1,1,0,1,0,0,1,1,1,0,0,1,0,0,Black,Rosso,25905
 13198,Lexus,RC F Base,2015,54722,0,5.0L V8 32V PDI DOHC,5,8-Speed Automatic,1,Gasoline,Rear-wheel Drive,0,0,1,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,Black,Infra Red,40500
-13199,Suzuki,Grand Vitara JS,1999,200000,0,2.5L V6 24V MPFI DOHC,2.5,5-Speed Manual,0,Gasoline,Rear-wheel Drive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Gray,,ot Priced
 13200,FIAT,124 Spider Abarth,2017,51051,0,1.4L I4 16V MPFI SOHC Turbo,1.4,6-Speed Automatic,1,Gasoline,Rear-wheel Drive,0,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0,Nero,Nero Cinema Jet Black,20484
 13201,Jeep,Commander Sport,2008,76278,1,3.7L V6 12V MPFI SOHC,3.7,5-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Dark Slate Gray,Steel Blue Clearcoat Metallic,7450
 13202,Porsche,Taycan 4S,2021,16231,1,Electric,,2-Speed Automatic,1,Electric,Four-wheel Drive,0,0,1,0,1,0,1,1,1,1,0,0,0,1,1,0,0,1,1,1,1,Truffle Brown,Gray,89911
@@ -3233,7 +3226,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 13232,Honda,HR-V LX,2017,61924,0,1.8L I4 16V MPFI SOHC,1.8,Automatic CVT,1,Gasoline,Four-wheel Drive,0,0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,Black,Black,18900
 13233,Volvo,C70 T5,2013,112222,0,2.5L I5 20V MPFI DOHC Turbo,2.5,5-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,Calcite / Off Black,Celestial Blue Pearl Metallic,12992
 13234,Audi,Q3 PREMIUM,2018,48136,1,2.0L,2,Automatic,1,Gasoline,Four-wheel Drive,0,0,1,0,1,0,1,0,1,0,0,1,1,1,1,0,0,0,1,1,1,BLACK,BLACK,25998
-13235,Suzuki,SX4 Base,2008,257500,0,"2L I-4 DOHC, engine with 143HP",2,,0,Gasoline,Four-wheel Drive,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Black,Silver,ot Priced
 13236,FIAT,500 Abarth,2013,148681,0,1.4L I4 16V MPFI SOHC Turbo,1.4,5-Speed Manual,0,Gasoline,Front-wheel Drive,0,0,0,1,1,0,1,0,0,0,0,1,0,1,1,0,0,0,1,0,1,Black,Rosso,7995
 13237,Mazda,CX-5 Touring,2019,43305,1,2.5L I4 16V GDI DOHC,2.5,6-Speed Automatic,1,Gasoline,Front-wheel Drive,1,1,1,0,1,1,0,0,1,1,0,1,0,1,1,0,0,1,1,1,1,Black,Snowflake White Pearl Mica,23500
 13238,Chevrolet,Tahoe Z71,2022,34481,0,5.3L V8 16V GDI OHV,5.3,10-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,0,1,1,0,0,1,1,0,1,1,1,1,0,1,0,1,Black,Summit White,66528
@@ -3870,7 +3862,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 13869,Audi,A5 2.0T Premium,2019,32667,1,2.0L I4 16V GDI DOHC Turbo,2,7-Speed Automatic with Auto-Shift,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,0,1,1,0,0,1,0,1,1,0,0,1,1,0,0,Black,Mythos Black Metallic,32500
 13870,Alfa,Romeo Stelvio Veloce,2022,3467,1,2.0L I4 16V GDI SOHC Turbo,2,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,1,0,1,Black,Rosso,42962
 13871,Land,Rover Range Rover P525 HSE,2020,38866,0,V8,,Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,0,1,1,0,1,1,1,0,1,1,1,0,0,1,0,1,Ebony,Yulong White,72572
-13872,Suzuki,SX4 Base,2012,141520,0,2.0L I4 16V MPFI DOHC,2,,0,Gasoline,Front-wheel Drive,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,White Water Pearl,ot Priced
 13873,Mitsubishi,Lancer Sportback ES,2014,99180,1,2.0L I4 16V MPFI DOHC,2,Automatic CVT,1,Gasoline,Front-wheel Drive,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Black,Wicked White Metallic,9900
 13874,Jaguar,F-PACE 35t Premium,2017,62004,0,3.0L V6 24V GDI DOHC Supercharged,3,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,0,0,1,0,1,1,1,0,1,1,0,1,1,1,0,0,1,0,0,Jet / Latte,Odyssey Red,26188
 13875,Toyota,RAV4 XLE,2013,192497,0,2.5L I4 16V MPFI DOHC,2.5,6-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,,Gray,9990
@@ -4235,7 +4226,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 14234,FIAT,500C Lounge,2012,64001,0,1.4L I4 16V MPFI SOHC,1.4,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,Black,Nero Black,10426
 14235,Porsche,Cayenne S,2019,30935,1,2.9L V6 24V GDI DOHC Twin Turbo,2.9,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,1,1,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,0,1,Black,Gray,67343
 14236,Maserati,Spyder Cambiocorsa,2004,44837,1,"4.2L V-8 DOHC, variable valve control, engine with 390HP",4.2,Automatic,1,Gasoline,Rear-wheel Drive,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,Beige,Red,27908
-14237,FIAT,500L Trekking,2015,29269,0,1.4L I4 16V MPFI SOHC Turbo,1.4,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Black,Bianco White,ot Priced
 14238,Toyota,Highlander XLE,2019,63001,0,3.5L V6 24V PDI DOHC,3.5,8-Speed Automatic,1,Gasoline,Four-wheel Drive,1,1,1,0,1,1,1,1,1,0,0,1,0,1,1,0,1,1,1,0,1,Ash,Predawn Gray Mica,30191
 14239,Volkswagen,Golf GTI 2.0T S,2019,128717,0,2.0L I4 16V GDI DOHC Turbo,2,6-Speed Manual,0,Gasoline,Front-wheel Drive,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,Titan Black,Great Falls Green,20555
 14240,Chevrolet,Sonic LT,2020,30595,0,1.4L I4 16V MPFI DOHC Turbo,1.4,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,1,1,1,1,0,0,0,1,1,1,0,0,1,0,0,0,1,1,1,1,Jet Black / Dark Titanium,Mosaic Black Metallic,17400
@@ -5218,7 +5208,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 15217,BMW,X3 xDrive35i,2017,53590,1,3.0L I6 24V GDI DOHC Turbo,3,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,1,1,1,0,1,1,1,0,0,1,1,1,1,1,0,0,1,0,0,Mocha,Glacier Silver Metallic,27161
 15218,BMW,X7 xDrive40i,2021,25022,1,3.0L I6 24V GDI DOHC Turbo,3,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,Cognac,Carbon Black Metallic,68880
 15219,Volvo,S60 T5 Inscription Drive-E Premier,2016,73410,0,2.0L I4 16V GDI DOHC Turbo,2,8-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,0,0,1,0,0,Off Black,Silver,15800
-15220,Volkswagen,Golf Alltrack TSI SE,2017,68880,0,1.8L I4 16V GDI DOHC Turbo,1.8,6-Speed Automatic with Auto-Shift,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,1,Titan Black,Platinum Gray Metallic,ot Priced
 15221,Ford,Transit Connect Base,2018,138206,0,"Duratec 2.5L I-4 DOHC, iVCT variable valve control, engine with",2.5,"Automatic, 6-Spd w/SelectShift",1,Gasoline,Front-wheel Drive,0,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,Black,Frozen White,16995
 15222,Maserati,Levante Modena,2023,3636,1,3.0L V6 24V GDI DOHC Twin Turbo,3,ZF 8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0,0,1,Black,White,92900
 15223,Hyundai,Veloster 2.0 Premium,2021,20473,0,2.0L I4 16V MPFI DOHC,2,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,0,0,1,1,1,1,Black,Thunder Gray,21889
@@ -5339,7 +5328,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 15338,Maserati,Levante GranLusso,2020,25152,1,3.0L V6 24V GDI DOHC Twin Turbo,3,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1,0,1,,Black,55900
 15339,Hyundai,Accent SE,2021,63555,0,1.6L I4 16V PDI DOHC,1.6,IVT,0,Gasoline,Front-wheel Drive,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,Black,Olympus Silver Metallic,16500
 15340,Land,Rover Defender 90 X-Dynamic S,2021,6088,0,3.0L I6 24V GDI DOHC Turbo,3,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,1,0,1,1,1,0,0,1,1,0,0,1,1,1,0,Ebony,Yulong White,63999
-15341,Suzuki,Equator Premium,2011,147676,0,2.5L I4 16V MPFI DOHC,2.5,Automatic,1,Gasoline,Rear-wheel Drive,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Black,ot Priced
 15342,Honda,Civic Sport,2019,26871,0,"2L I-4 DOHC, variable valve control, engine with 158HP",2,Manual,0,Gasoline,Front-wheel Drive,1,0,1,0,1,1,0,0,1,1,0,0,1,1,0,0,0,1,1,1,0,Black,Lunar Silver Metallic,20952
 15343,Mercedes-Benz,AMG GLC 63 S 4MATIC,2021,20185,1,4.0L V8 32V GDI DOHC Twin Turbo,4,9-Speed Automatic,1,Gasoline,Four-wheel Drive,1,0,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,1,0,0,Black,Cirrus Silver Metallic,76988
 15344,Honda,Passport EX-L,2021,42813,0,3.5L V6 24V GDI SOHC,3.5,9-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,0,0,1,1,0,1,1,0,1,1,1,1,1,1,0,1,1,0,1,Black,Black,33987
@@ -5481,7 +5469,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 15480,Alfa,Romeo Giulia Base,2019,51417,1,I4,,Automatic,1,Unknown,Four-wheel Drive,0,1,1,0,1,0,1,0,1,0,0,0,0,1,1,1,0,1,1,0,1,Black/Ice,Alfa White,25500
 15481,Chevrolet,Tahoe LS,2011,57958,0,5.3L V8 16V MPFI OHV Flexible Fuel,5.3,6-Speed Automatic,1,E85 Flex Fuel,Four-wheel Drive,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Ebony,Sheer Silver Metallic,21795
 15482,Cadillac,Escalade Luxury,2019,72866,1,6.2L V8 16V GDI OHV,6.2,10-Speed Automatic,1,Gasoline,Rear-wheel Drive,1,1,0,0,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,0,0,Black,Dark Adriatic Blue Metallic,44995
-15483,Suzuki,Grand Vitara Xsport,2008,147000,0,2.7L V6 24V MPFI DOHC,2.7,5-Speed Automatic,1,Gasoline,Rear-wheel Drive,1,1,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,,Red,ot Priced
 15484,FIAT,500X Lounge,2016,63771,0,"MultiAir 2.4L I-4 variable valve control, engine with 180HP",2.4,Automatic,1,Gasoline,Front-wheel Drive,0,0,1,0,1,0,1,0,1,1,1,0,1,1,1,0,0,0,1,1,1,Black,Rosso Amore (Red Tri-Coat),13684
 15485,Audi,RS 7 4.0T Prestige,2017,20358,1,4.0L V8 32V GDI DOHC Twin Turbo,4,8-Speed Automatic with Tiptronic,1,Gasoline,Four-wheel Drive,1,0,0,1,1,0,1,1,0,0,0,0,0,1,1,1,0,0,1,0,0,Black / Gray,Misano Red Pearl Effect,64988
 15486,Mercedes-Benz,C-Class C 300 4MATIC,2022,2438,1,2.0L I4 16V GDI DOHC Turbo,2,9-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,Sienna,Gray,44999
@@ -6546,7 +6533,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 16545,Toyota,4Runner SR5,2020,9846,0,4.0L V6 24V MPFI DOHC,4,5-Speed Automatic,1,Gasoline,Four-wheel Drive,1,1,1,0,1,1,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,Black / Graphite,Gray,42990
 16546,Volkswagen,Tiguan 2.0T SEL R-Line,2022,17497,0,2.0L I4 16V GDI DOHC Turbo,2,8-Speed Automatic with Tiptronic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1,0,1,Black,Atlantic Blue,35000
 16547,Mitsubishi,Outlander Sport ES,2021,5392,1,2.0L I4 16V MPFI DOHC,2,Automatic CVT,1,Gasoline,Four-wheel Drive,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,Black,Labrador Black Metallic,25289
-16548,Hyundai,Sonata SE,2019,61019,0,2.4L I4 16V GDI DOHC,2.4,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,Gray,Lakeside Blue,ot Priced
 16549,Chevrolet,Bolt EUV LT,2022,18384,0,Electric,,1-Speed Automatic,1,Electric,Front-wheel Drive,0,1,1,0,1,0,0,0,1,1,0,0,1,1,0,0,0,1,1,1,0,Jet Black,Summit White,32998
 16550,Volvo,XC60 T5 Drive-E Premier,2016,98440,0,"Drive-E 2L I-4 gasoline direct injection, DOHC, variable valve c",,Automatic 8-Speed,1,Gasoline,Front-wheel Drive,0,0,0,0,1,0,1,0,0,0,0,1,1,1,0,1,0,0,1,1,0,Cream,White,15995
 16551,Audi,Q3 45 S line Prestige,2020,35419,1,2.0L I4 16V GDI DOHC Turbo,2,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,,1,1,1,0,0,1,1,1,0,1,1,1,1,0,0,1,1,1,1,Okapi Brown,Ibis White,35495
@@ -7595,7 +7581,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 17594,Jeep,Wrangler Sport,2014,62124,1,3.6L V6 24V MPFI DOHC,3.6,5-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,Black,Bright White Clearcoat,22421
 17595,Mazda,MazdaSpeed3 Touring,2012,54160,1,2.3L I4 16V GDI DOHC Turbo,2.3,6-Speed Manual,0,Gasoline,Front-wheel Drive,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,Black,Velocity Red Mica,16495
 17596,Mazda,CX-30 Select,2021,10517,1,2.5L I4 16V GDI DOHC,2.5,6-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,1,0,0,1,1,1,0,0,1,1,0,0,1,1,1,0,Red,Machine Gray Metallic,27572
-17597,Porsche,Macan Base,2018,70864,1,Intercooled Turbo Premium Unleaded I-4 2.0 L/121,2,Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,Black/Luxor Beige,Gray,ot Priced
 17598,Hyundai,Santa Fe Plug-In Hybrid Limited,2022,22830,0,1.6L I4 16V GDI DOHC Turbo Hybrid,1.6,Automatic,1,Hybrid,Four-wheel Drive,0,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1,0,1,Beige,Twilight Black,38999
 17599,Mercedes-Benz,AMG GLE AMG GLE 63 S-Model 4MATIC,2016,44418,1,5.5L V8 32V GDI DOHC Twin Turbo,5.5,7-Speed Automatic,1,Gasoline,Four-wheel Drive,1,0,1,1,1,0,1,1,0,0,0,1,0,1,1,1,0,1,1,0,1,Espresso Brown,Black,48994
 17600,MINI,Clubman Cooper S ALL4,2019,33389,1,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,2,Automatic,1,Gasoline,Four-wheel Drive,1,1,1,1,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Carbon Black,Pepper White,24000
@@ -7988,7 +7973,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 17987,Maserati,Grecale Modena,2023,612,1,2.0L I4 16V GDI DOHC Turbo,2,ZF 8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0,0,1,,White,78995
 17988,Jaguar,F-TYPE Base,2016,38151,0,3.0L V6 24V GDI DOHC Supercharged,3,8-Speed Automatic,1,Gasoline,Rear-wheel Drive,1,0,1,0,1,0,1,0,0,1,1,1,0,1,1,1,0,0,1,1,0,Jet,Black Berry,30997
 17989,Cadillac,Escalade Sport Platinum,2023,5972,1,6.2L V8 16V GDI OHV,6.2,10-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,0,0,0,1,1,1,1,0,0,1,1,1,1,1,0,1,0,0,0,Whisper Beige,Crystal White Tri-Coat,130988
-17990,Suzuki,SX4 Convenience Pkg,2007,132157,0,2.0L I4 16V MPFI DOHC,2,Automatic,1,Gasoline,Four-wheel Drive,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Black,Pearl White,ot Priced
 17991,Hyundai,Sonata Limited,2020,28693,0,1.6L I4 16V PDI DOHC Turbo,1.6,8-Speed Automatic,1,Gasoline,Front-wheel Drive,0,1,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,1,0,0,Dark Gray,Quartz White,28590
 17992,Maserati,Quattroporte S,2010,27818,1,4.7L V8 32V MPFI DOHC,4.7,6-Speed Automatic,1,Gasoline,Rear-wheel Drive,0,0,1,0,1,0,1,0,0,0,0,1,0,1,1,1,0,0,1,0,1,Pearl Beige,Grigio Alfieri Metallic,18491
 17993,Mazda,CX-5 Sport,2019,32727,1,2.5L I4 16V GDI DOHC,2.5,6-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,Black,Jet Black Mica,25998
@@ -8032,7 +8016,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 18031,Maserati,GranTurismo Sport,2016,31293,1,4.7L V8 32V MPFI DOHC,4.7,6-Speed Automatic,1,Gasoline,Rear-wheel Drive,0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1,0,Nero,Gray,49700
 18032,Maserati,Quattroporte S,2020,14787,1,3.0L V6 24V GDI DOHC Twin Turbo,3,8-Speed Automatic,1,Gasoline,Rear-wheel Drive,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1,1,0,1,1,0,1,Nero,Nero,58999
 18033,BMW,440 Gran Coupe i,2017,38510,1,3.0L I6 24V GDI DOHC Turbo,3,8-Speed Automatic,1,Gasoline,Rear-wheel Drive,0,0,1,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0,0,,Midnight Blue Metallic,29995
-18034,Land,Rover Range Rover Velar R-Dynamic SE,2019,34199,0,Intercooled Supercharger Premium Unleaded V-6 3.0 L/183,3,Automatic,1,Gasoline,Four-wheel Drive,0,0,1,0,1,0,1,1,1,0,1,1,0,1,1,1,0,0,1,0,0,Light Oyster/Ebony,Black,ot Priced
 18035,Jaguar,XE S,2020,18807,0,2.0L I4 16V GDI DOHC Turbo,2,8-Speed Automatic,1,Gasoline,Rear-wheel Drive,0,1,1,1,1,1,0,0,1,1,1,1,0,1,1,0,0,1,1,1,0,Light Oyster / Ebony,Portofino Blue,31995
 18036,FIAT,500L Easy,2014,92769,0,1.4L I4 16V MPFI SOHC Turbo,1.4,6-Speed Automatic with Auto-Shift,1,Gasoline,Front-wheel Drive,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Black,White,8995
 18037,Cadillac,XT5 Premium Luxury,2021,67904,1,3.6L V6 24V GDI DOHC,3.6,9-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,0,0,1,0,0,1,1,0,1,1,0,1,1,1,0,1,1,0,1,Black,Satin Steel Metallic,32999
@@ -8875,7 +8858,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 18874,Jeep,Grand Wagoneer Series III,2022,21410,1,6.4L V8 16V MPFI OHV,6.4,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,0,1,1,1,Tupelo,Diamond Black,87000
 18875,Maserati,Levante S GranSport,2021,15678,1,3.0L V6 24V GDI DOHC Twin Turbo,3,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,0,1,Tan,Nero,64778
 18876,Lexus,RX 450h Base,2022,19418,0,3.5L V6 24V PDI DOHC Hybrid,3.5,1-Speed CVT with Overdrive,0,Hybrid,Four-wheel Drive,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Birch,Atomic Silver,58395
-18877,FIAT,500X Trekking Plus,2016,89050,0,2.4L I4 16V MPFI SOHC,2.4,9-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,1,0,1,0,1,0,1,1,1,1,0,1,1,0,0,0,1,1,1,Brown,Giallo Tristrato,ot Priced
 18878,Honda,Civic Si,2012,130591,0,"2.4L I-4 DOHC, i-VTEC variable valve control, engine with 201HP",2.4,Manual,0,Gasoline,Front-wheel Drive,1,0,1,0,1,0,1,0,0,0,0,1,1,1,0,0,0,0,1,0,0,Black,Polished Metal Metallic,13499
 18879,Mercedes-Benz,GLE 450 AWD 4MATIC,2021,45426,1,3.0L I6 24V GDI DOHC Turbo,3,9-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,1,0,0,Macchiato Beige,Iridium Silver Metallic,62290
 18880,Volkswagen,Passat 2.0T S,2021,5549,0,2.0L I4 16V GDI DOHC Turbo,2,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,Titan Black,Platinum Gray Metallic,24991
@@ -9904,7 +9886,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 19903,Maserati,GranTurismo Sport,2017,25963,1,4.7L V8 32V MPFI DOHC,4.7,6-Speed Automatic,1,Gasoline,Rear-wheel Drive,0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1,1,Nero,White,49950
 19904,Kia,Sorento S,2022,10161,0,2.5L I4 16V PDI DOHC,2.5,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,0,1,0,1,0,1,0,0,1,1,0,1,1,1,0,1,Black,Wolf Gray,37999
 19905,Nissan,Titan PRO-4X,2021,23506,0,5.6L V8 32V GDI DOHC,5.6,9-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,0,0,1,1,1,0,1,1,0,0,1,1,1,0,0,0,1,1,1,Black,Baja Storm,46511
-19906,FIAT,500L Trekking,2014,117228,0,1.4L I4 16V MPFI SOHC Turbo,1.4,6-Speed Automatic with Auto-Shift,1,Gasoline,Front-wheel Drive,0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,Black,Bianco White,ot Priced
 19907,Ford,Mustang V6,2017,97229,0,"3.7L V-6 DOHC, Ti-VCT variable valve control, engine with 300HP",3.7,6-Speed Manual,0,Gasoline,Rear-wheel Drive,0,0,1,0,1,0,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,Ebony,Shadow Black,16997
 19908,Suzuki,XL7 Premium,2008,103869,0,3.6L V6 24V MPFI DOHC,3.6,5-Speed Automatic,1,Gasoline,Four-wheel Drive,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,White,10998
 19909,Mazda,Mazda3 FWD,2020,37395,1,2.5L I4 16V GDI DOHC,2.5,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,1,0,0,1,1,0,0,1,1,1,0,0,1,0,0,0,0,1,1,0,Black,Deep Crystal Blue Mica,21652
@@ -10350,7 +10331,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 20349,MINI,Convertible Cooper S,2021,7774,1,2.0L I4 16V GDI DOHC Turbo,2,7-Speed Automatic with Auto-Shift,1,Gasoline,Front-wheel Drive,0,1,1,1,1,0,0,0,1,1,0,0,1,1,1,0,0,0,1,1,0,Carbon Black,British Racing Green IV Metallic,32980
 20350,Ford,F-150 XL,2014,223095,0,3.7L V6 24V MPFI DOHC Flexible Fuel,3.7,6-Speed Automatic,1,E85 Flex Fuel,Four-wheel Drive,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Steel Gray,Oxford White,11995
 20351,Volkswagen,Golf R 2.0T w/DCC & Navigation,2019,18607,0,2.0L I4 16V GDI DOHC Turbo,2,7-Speed Automatic with Auto-Shift,1,Gasoline,Four-wheel Drive,0,1,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,1,Titan Black,Indium Gray Metallic,40000
-20352,FIAT,500X Trekking,2016,88076,0,2.4L I4 16V MPFI SOHC,2.4,9-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,,,ot Priced
 20353,Volkswagen,Golf GTI 2.0T S,2020,29058,0,2.0L I4 16V GDI DOHC Turbo,2,7-Speed Automatic with Auto-Shift,1,Gasoline,Front-wheel Drive,0,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,0,Titan Black,Dark Iron Blue Metallic,26998
 20354,MINI,Paceman Cooper S ALL4,2015,106309,1,1.6L I4 16V GDI DOHC Turbo,1.6,6-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,Black,Red,13999
 20355,Audi,A5 2.0T Premium Plus,2016,58168,1,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,2,8-Speed Automatic,1,E85 Flex Fuel,Four-wheel Drive,0,0,1,1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,Black,Mythos Black Metallic w/ Black Roof,24991
@@ -10877,7 +10857,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 20876,Honda,HR-V LX,2022,17796,0,1.8L I4 16V MPFI SOHC,1.8,Automatic CVT,1,Gasoline,Four-wheel Drive,0,1,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,Black,Black,24500
 20877,Jeep,Cherokee Limited,2017,32680,1,2.4L I4 16V MPFI SOHC,2.4,9-Speed Automatic,1,Gasoline,Four-wheel Drive,1,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0,0,1,0,1,Black,Bright White Clearcoat,21300
 20878,Mercedes-Benz,GLE 550e Plug-In Hybrid Base 4MATIC,2018,50408,1,3.0L V6 24V GDI DOHC Twin Turbo Hybrid,3,7-Speed Automatic,1,Hybrid,Four-wheel Drive,0,0,1,1,1,0,1,1,0,0,0,0,0,1,1,1,0,0,1,0,0,Saddle Brown,Brilliant Blue Metallic,39995
-20879,Suzuki,Equator Sport,2012,334539,0,4.0L V6 24V MPFI DOHC,4,5-Speed Automatic,1,Gasoline,Rear-wheel Drive,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,Black,ot Priced
 20880,FIAT,500 Pop,2015,89297,0,"MultiAir 1.4L I-4 variable valve control, engine with 101HP",1.4,Automatic,1,Gasoline,Front-wheel Drive,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,,,7485
 20881,Volkswagen,Atlas Cross Sport 3.6L V6 SEL Premium,2021,19079,0,3.6L V6 24V GDI DOHC,3.6,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,0,0,1,0,1,Titan Black / Quarzit,Deep Black Pearl Effect,37500
 20882,Volvo,S60 T6 Momentum,2020,35203,0,2.0L I4 16V GDI DOHC,2,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,0,1,0,1,0,1,1,0,1,1,1,0,1,1,0,1,Charcoal,Osmium Gray Metallic,34790
@@ -12038,7 +12017,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 22037,Porsche,Macan Base,2017,55126,1,2.0L I4 16V GDI DOHC Turbo,2,7-Speed Automatic with Auto-Shift,1,Gasoline,Four-wheel Drive,0,0,1,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,1,0,,,34850
 22038,Porsche,911 Black Edition,2012,40335,1,3.6L H6 24V GDI DOHC,3.6,6-Speed Manual,0,Gasoline,Rear-wheel Drive,0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,1,Black,Basalt Black Metallic,57000
 22039,Volkswagen,Eurovan,1997,155612,0,2.8L I6 FI,2.8,4-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,White,29880
-22040,Kia,K900 Luxury,2019,20897,0,3.3L V6 24V GDI DOHC Twin Turbo,3.3,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,0,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,1,0,0,Black,Snow White Pearl,ot Priced
 22041,Volvo,XC60 Recharge Plug-In Hybrid T8 Inscription,2019,42224,0,2.0L I4 16V GDI DOHC Hybrid,2,8-Speed Automatic,1,Hybrid,Four-wheel Drive,0,1,1,0,1,0,1,1,1,0,1,1,0,1,1,1,0,1,1,0,1,Charcoal,Bright Silver Metallic,39988
 22042,Volvo,XC90 T5 Momentum 7 Passenger,2020,40400,0,2.0L I4 16V GDI DOHC Turbo,2,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1,1,0,1,Charcoal,Denim Blue Metallic,36990
 22043,Chevrolet,Tahoe Z71,2021,20434,0,5.3L V8 16V GDI OHV,5.3,10-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,0,0,1,0,0,1,0,0,1,0,0,1,1,1,1,1,1,1,0,Jet Black,Black,61985
@@ -12596,7 +12574,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 22595,Cadillac,CTS-V Base,2007,116679,1,6.0L V8 16V MPFI OHV,6,6-Speed Manual,0,Gasoline,Rear-wheel Drive,1,0,1,0,1,0,1,0,0,0,0,1,0,1,1,1,0,0,0,0,1,Ebony,Black Raven,18995
 22596,Volkswagen,New Beetle S,2008,99781,0,2.5L I5 20V MPFI DOHC,2.5,5-Speed Manual,0,Gasoline,Front-wheel Drive,1,0,1,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,Black,Green,8995
 22597,Porsche,Panamera E-Hybrid 4,2018,29635,1,2.9L V6 24V GDI DOHC Twin Turbo Hybrid,2.9,8-Speed Automatic with Auto-Shift,1,Hybrid,Four-wheel Drive,1,0,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,1,1,1,Black,Dolomite Silver Metallic,65800
-22598,FIAT,500 Pop,2018,31399,0,1.4L I4 16V MPFI SOHC Turbo,1.4,6-Speed Automatic,1,Gasoline,Front-wheel Drive,1,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,1,0,Black Gray,Metallo Gray,ot Priced
 22599,Mitsubishi,Outlander Sport ES,2018,68918,1,2.0L I4 16V MPFI DOHC,2,Automatic,1,Gasoline,Front-wheel Drive,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,Black,Black,17998
 22600,Ford,Mustang Mach-E GT,2021,1768,0,Electric,,1-Speed Automatic,1,Electric,Four-wheel Drive,0,1,0,0,1,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,1,Black Onyx,Star White,48998
 22601,Jeep,Grand Cherokee SRT,2019,16881,1,6.4L V8 16V MPFI OHV,6.4,8-Speed Automatic,1,Gasoline,Four-wheel Drive,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,0,0,1,0,0,Black,Black,61990
@@ -15547,7 +15524,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 25546,Cadillac,XT6 Premium Luxury AWD,2022,19166,1,3.6L V6 24V GDI DOHC,3.6,Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,0,1,1,1,0,1,1,0,0,1,1,1,1,0,0,1,Jet Black,Stellar Black Metallic,52069
 25547,Jaguar,F-PACE 25t Prestige,2018,85180,0,2.0L I4 16V GDI DOHC Turbo,2,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,0,1,1,0,1,1,1,0,1,1,0,1,1,1,0,0,1,0,1,Ebony,Corris Grey,23250
 25548,Jaguar,F-TYPE S,2015,39727,0,3.0L V6 24V GDI DOHC Supercharged,3,8-Speed Automatic,1,Gasoline,Rear-wheel Drive,0,0,1,0,1,0,1,0,1,1,0,1,0,1,1,1,0,0,1,1,0,Jet / Jet / Redzone,Polaris White,42998
-25549,Maserati,Quattroporte S Q4,2016,47546,1,3.0L V6 24V GDI DOHC Twin Turbo,3,8-Speed Automatic,1,Gasoline,Four-wheel Drive,1,0,1,1,1,0,1,0,0,0,1,1,0,1,1,1,0,0,1,0,1,Brown,Gray,ot Priced
 25550,Hyundai,Veloster 2.0 Premium,2020,33302,0,2.0L I4 16V MPFI DOHC,2,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,1,0,0,1,0,0,0,1,1,1,0,0,1,1,0,0,1,1,1,0,Black,Black,23497
 25551,Ford,Escape SE,2015,91955,0,1.6L I4 16V GDI DOHC Turbo,1.6,6-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,Gray,Black,15998
 25552,Volkswagen,Tiguan 2.0T SE,2022,31591,0,2.0L I4 16V GDI DOHC Turbo,2,8-Speed Automatic,1,Gasoline,Four-wheel Drive,1,1,1,1,1,1,0,1,1,0,1,0,0,1,1,0,0,0,1,0,1,Cinnamon,Atlantic Blue,29687
@@ -17155,7 +17131,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 27154,Lexus,IS 300 Base,2017,61159,0,3.5L V6 24V GDI DOHC,3.5,6-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,1,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,1,,,24749
 27155,Cadillac,DeVille Base,1977,70414,1,,,,0,Unknown,Unknown,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,GOLD,12998
 27156,Land,Rover Defender 110 X-Dynamic HSE,2022,13137,0,3.0L I6 24V GDI DOHC Turbo,3,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,1,0,0,,Gray,84995
-27157,Suzuki,SX4 LE Popular,2012,131141,0,2.0L I4 16V MPFI DOHC,2,Automatic CVT,1,Gasoline,Front-wheel Drive,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,Black,ot Priced
 27158,Honda,Accord Sport 2.0T,2018,71238,0,2.0L I4 16V GDI DOHC Turbo,2,10-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,1,1,1,1,0,0,1,1,0,1,1,1,0,0,0,1,1,1,1,,Black,24978
 27159,Jaguar,F-PACE SVR,2023,26,0,V8,,Automatic,1,Gasoline,Four-wheel Drive,,,,0,1,0,1,1,0,0,0,1,0,1,1,1,0,1,0,0,1,Ebony,Santorini Black,92480
 27160,Mazda,CX-50 2.5 S Premium Plus Package,2023,11715,1,2.5L I4 16V GDI DOHC,2.5,6-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,1,0,1,0,1,1,1,0,1,1,1,0,0,1,0,1,Black,Polymetal Gray Metallic,34499
@@ -17339,7 +17314,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 27338,MINI,Clubman Cooper S ALL4,2020,28704,1,2.0L I4 16V GDI DOHC Turbo,2,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,0,1,1,0,0,0,1,1,0,0,1,1,1,0,0,1,1,1,1,Malt Brown,Silver Metallic,26976
 27339,Jeep,Renegade Sport,2018,124859,1,2.4L I4 16V MPFI SOHC,2.4,9-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,Black,Anvil,12995
 27340,Volkswagen,Atlas Cross Sport 3.6L V6 SEL R-Line,2021,38214,0,3.6L V6 24V GDI DOHC,3.6,8-Speed Automatic,1,Gasoline,Four-wheel Drive,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,0,1,Titan Black,Tourmaline Blue Metallic,38935
-27341,Cadillac,Escalade ESV Premium Luxury,2021,37037,1,6.2L V8 16V GDI OHV,6.2,10-Speed Automatic,1,Gasoline,Four-wheel Drive,1,0,0,0,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,0,Parchment,Crystal White Tri-Coat,ot Priced
 27342,Audi,Q5 45 S line Premium Plus,2022,8065,1,2.0L I4 16V GDI DOHC Turbo,2,Automatic,1,Gasoline,Four-wheel Drive,0,1,0,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,1,0,1,Black,Glacier White Metallic,47869
 27343,Volkswagen,Atlas Cross Sport 3.6L V6 SEL Premium,2021,3540,0,3.6L V6 24V GDI DOHC,3.6,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,0,0,1,1,1,1,0,0,1,1,0,1,1,1,0,0,1,0,1,Titan Black / Quarzit,Deep Black Pearl Effect,43555
 27344,Chevrolet,Tahoe LT,2021,37000,0,5.3L V8 16V GDI OHV,5.3,10-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,0,0,1,0,0,1,0,0,1,0,0,1,1,1,1,1,1,0,0,Jet Black,Shadow Gray Metallic,57587
@@ -17901,7 +17875,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 27900,Lexus,RX 350 Base,2016,46542,0,3.5L V6 24V GDI DOHC,3.5,8-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,1,0,1,0,1,1,1,1,0,0,0,1,1,0,0,0,1,1,0,Gray,Nebula Gray Pearl,30995
 27901,Nissan,NV200 SV,2021,15650,0,"2L I-4 DOHC, variable valve control, engine with 131HP",2,Automatic,1,Gasoline,Front-wheel Drive,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,1,0,Gray,Fresh Powder,31999
 27902,Cadillac,Escalade Luxury,2016,84983,1,6.2L V8 16V GDI OHV,6.2,8-Speed Automatic,1,Gasoline,Four-wheel Drive,1,0,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,1,1,0,0,Jet Black,Black Raven,34869
-27903,Suzuki,XL7,2007,129069,0,3.6L V6 24V MPFI DOHC,3.6,5-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Tan,Meteor Gray,ot Priced
 27904,Audi,A3 e-tron 1.4T Premium,2018,22765,1,1.4L I4 16V GDI DOHC Turbo Hybrid,1.4,6-Speed Automatic with Auto-Shift,1,Hybrid,Front-wheel Drive,0,0,1,1,1,0,1,0,1,1,0,1,1,1,1,0,0,0,1,1,1,Chestnut Brown,Glacier White Metallic,29228
 27905,BMW,M5 Base,2019,34773,1,4.4L V8 32V GDI DOHC Twin Turbo,4.4,8-Speed Automatic,1,Gasoline,Four-wheel Drive,1,0,1,1,1,0,1,0,1,0,0,1,0,1,1,1,0,1,1,0,1,Black,Donington Gray Metallic,72998
 27906,Maserati,Ghibli S Q4 GranSport,2019,58455,1,"3L V-6 gasoline direct injection, DOHC, variable valve control,",3,Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,Rosso,Black,42991
@@ -18309,7 +18282,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 28308,Hyundai,Santa Fe Ultimate 2.0T,2019,38082,0,2.0L I4 16V GDI DOHC Turbo,2,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,0,1,Espresso,Lava Orange,29999
 28309,Porsche,718 Boxster S,2018,20555,1,2.5L H4 16V GDI DOHC Turbo,2.5,7-Speed Automatic with Auto-Shift,1,Gasoline,Rear-wheel Drive,0,0,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,0,1,1,0,Black,Carrara White Metallic,72995
 28310,Mazda,RX-8 Sport,2009,80310,1,1.3L Rotary MPFI OHV,1.3,6-Speed Manual,0,Gasoline,Rear-wheel Drive,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Black,Diamond Gray Metallic,10995
-28311,Lexus,GX 460 Base,2021,25702,0,4.6L V8 32V MPFI DOHC,4.6,6-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1,1,1,0,1,0,0,Black,Black Onyx,ot Priced
 28312,MINI,Convertible Cooper S,2019,31048,1,2.0L I4 16V GDI DOHC Turbo,2,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,1,1,1,0,0,0,1,1,0,0,1,1,1,0,0,0,1,1,1,Black Pearl,Island Blue Metallic,28411
 28313,Hyundai,Sonata SE,2019,43509,0,2.4L I4 16V GDI DOHC,2.4,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,1,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,Gray,Phantom Black,19444
 28314,Maserati,Levante GT,2022,13908,1,3.0L V6 24V GDI DOHC Twin Turbo,3,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,1,0,1,Tan,Blu,68999
@@ -18402,7 +18374,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 28401,Volvo,XC90 Hybrid T8 Inscription,2018,96253,0,2.0L I4 16V GDI DOHC Hybrid,2,8-Speed Automatic,1,Hybrid,Four-wheel Drive,0,0,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,0,Charcoal,Onyx Black Metallic,34500
 28402,Lexus,SC 300,1995,77410,0,3.0L I6 24V MPFI DOHC,3,5-Speed Manual,0,Gasoline,Unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tan,White,14998
 28403,Toyota,4Runner TRD Off Road,2022,39884,0,4.0L V6 24V MPFI DOHC,4,5-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,0,Black / Graphite,White,45200
-28404,Hyundai,Genesis 3.8,2015,51139,0,3.8L V6 24V GDI DOHC,3.8,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,0,0,1,0,1,0,1,1,0,0,1,1,1,0,0,0,1,1,0,Gray,Caspian Black,ot Priced
 28405,Porsche,Taycan Turbo,2021,7426,1,Electric,,2-Speed Automatic,1,Electric,Four-wheel Drive,0,0,1,0,1,0,1,0,1,0,0,1,0,1,1,1,0,1,1,0,1,Bordeaux Red,White,124995
 28406,Cadillac,Escalade Luxury,2015,66128,1,6.2L V8 16V GDI OHV,6.2,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,0,Kona Brown,Black Raven,37990
 28407,Volvo,XC60 T6 Platinum,2015,111404,0,3.0L I6 24V MPFI DOHC Turbo,3,6-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,1,1,1,1,0,1,0,1,1,1,0,0,1,0,0,Soft Beige,Ice White,16911
@@ -18450,7 +18421,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 28449,Hyundai,Tucson SE,2017,48932,0,4 Cylinder,,Automatic,1,Gasoline,Front-wheel Drive,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,Black,Sedona Sunset,17732
 28450,Jaguar,XF SC,2013,97368,0,3.0L V6 24V GDI DOHC Supercharged,3,8-Speed Automatic,1,Gasoline,Four-wheel Drive,1,0,0,0,1,0,0,0,0,1,0,1,0,1,1,1,0,0,1,0,1,Barley / Charcoal,Polaris White,14995
 28451,Jeep,Gladiator Mojave,2021,25270,1,3.6L V6 24V MPFI DOHC,3.6,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,0,1,0,1,1,1,0,0,1,0,0,0,1,1,1,0,Black,Bright White Clearcoat,47500
-28452,Mitsubishi,Diamante LS,1992,0,1,3.0L V6 24V MPFI DOHC,3,4-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,Brown,ot Priced
 28453,Audi,SQ7 4.0T Premium Plus,2020,33769,1,4.0L V8 32V GDI DOHC Twin Turbo,4,8-Speed Automatic,1,Gasoline,Four-wheel Drive,1,1,1,1,1,0,1,1,0,0,0,0,0,1,1,1,1,0,1,0,0,Black,Florett Silver Metallic,67998
 28454,Kia,Sorento LX,2017,97160,0,"2.4L I-4 gasoline direct injection, DOHC, variable valve control",2.4,Automatic,1,Gasoline,Four-wheel Drive,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,1,1,1,1,1,Satin Black,Titanium Silver,15491
 28455,Audi,A3 2.0T Premium,2015,71179,1,2.0L I4 16V GDI DOHC Turbo,2,6-Speed Automatic with Auto-Shift,1,Gasoline,Four-wheel Drive,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,Black,Brilliant Black,19815
@@ -18836,7 +18806,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 28835,Jeep,Grand Cherokee L Limited,2022,14619,1,Regular Unleaded V-6 3.6 L/220,3.6,Automatic,1,Gasoline,Four-wheel Drive,0,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,0,1,Global Black,Velvet Red Pearlcoat,44500
 28836,Cadillac,Escalade ESV Sport Platinum,2021,19985,1,6.2L V8 16V GDI OHV,6.2,10-Speed Automatic,1,Gasoline,Four-wheel Drive,0,0,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,0,1,0,0,Jet Black,Black Raven,104500
 28837,Mitsubishi,Outlander ES,2022,10253,1,2.5L I4 16V GDI DOHC,2.5,Automatic CVT,1,Gasoline,Front-wheel Drive,0,1,1,0,1,0,0,0,1,1,0,0,1,1,0,0,1,1,1,1,0,Black,Labrador Black Pearl,26888
-28838,BMW,650 Gran Coupe i xDrive,2015,30977,1,4.4L V8 32V GDI DOHC Twin Turbo,4.4,8-Speed Automatic,1,Gasoline,Four-wheel Drive,1,1,0,1,1,0,1,0,1,0,0,0,1,1,1,1,0,0,1,0,1,Amaro Brown,Alpine White,ot Priced
 28839,Audi,A4 2.0T Premium Plus,2014,109139,1,"2L I-4 gasoline direct injection, DOHC, variable valve control,",2,Automatic,1,Gasoline,Four-wheel Drive,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,1,0,0,1,1,1,Black,Brown,13990
 28840,Mazda,CX-9 Sport,2015,65128,1,"3.7L V-6 DOHC, variable valve control, engine with 273HP",3.7,Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,1,Sand,Gray,15799
 28841,Audi,A5 45 S line Premium Plus,2023,2467,1,2.0L I4 16V GDI DOHC Turbo,2,Automatic,1,Gasoline,Four-wheel Drive,0,1,0,1,1,0,1,1,1,0,0,1,0,1,1,0,0,0,0,1,1,Black,Mythos Black Metallic,52490
@@ -18931,7 +18900,6 @@ ID,brand,model,year,mileage,luxury,engine,engine_size,transmission,automatic_tra
 28930,Jaguar,XF R-Dynamic SE,2022,12374,0,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,2,Automatic,1,Gasoline,Four-wheel Drive,0,1,0,1,1,0,1,0,1,1,1,1,0,1,1,1,0,0,1,0,1,Lt Oyster/Ebony/Lt Oyster,Fuji White,45981
 28931,Volvo,XC90 T6 Momentum 7 Passenger,2020,27065,0,2.0L I4 16V GDI DOHC,2,8-Speed Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,1,1,1,0,1,1,1,0,1,1,1,1,0,1,0,1,,,40950
 28932,MINI,Coupe Cooper S,2014,78898,1,1.6L I4 16V GDI DOHC Turbo,1.6,6-Speed Automatic,1,Gasoline,Front-wheel Drive,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,,,12242
-28933,Suzuki,Kizashi S,2010,166611,0,2.4L I4 16V MPFI DOHC,2.4,Automatic CVT,1,Gasoline,Four-wheel Drive,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,,,ot Priced
 28934,Maserati,Ghibli 3.0L,2019,33470,1,"3L V-6 gasoline direct injection, DOHC, variable valve control,",3,Automatic,1,Gasoline,Rear-wheel Drive,0,0,0,0,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,Rosso,Luci Di Mezzanotte,41790
 28935,Mitsubishi,Outlander SEL 2.5 S-AWC,2022,13149,1,"2.5L I-4 gasoline direct injection, DOHC, variable valve control",2.5,Automatic,1,Gasoline,Four-wheel Drive,0,1,1,0,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,White,White Diamond,32888
 28936,BMW,430 i xDrive,2022,23930,1,2.0L I4 16V GDI DOHC Turbo,2,Automatic,1,Gasoline,Four-wheel Drive,0,1,1,1,1,0,1,0,0,1,1,1,0,1,0,1,0,0,1,0,1,Canberra Beige,San Remo Green Metallic,42998
